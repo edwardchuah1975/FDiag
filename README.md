@@ -16,5 +16,4 @@ FDiag is a living toolkit for which there are several plans to extend FDiag sign
 the development of FDiag, please contact me by email to discuss a possible course of collaboration.
 
 Edward Chuah
-
 email: edwardchuah@acm.org
