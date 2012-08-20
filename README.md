@@ -15,5 +15,4 @@ http://software.ihpc.a-star.edu.sg/projects/FDiag/FDiag.php .
 FDiag is a living toolkit for which there are several plans to extend FDiag significantly.  If you are interested in 
 the development of FDiag, please contact me by email to discuss a possible course of collaboration.
 
-Edward Chuah
-email: edwardchuah@acm.org
+Edward Chuah (email: edwardchuah@acm.org)
