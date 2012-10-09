@@ -17,3 +17,21 @@ FDiag is a living toolkit for which there are several plans to extend FDiag sign
 the development and/or use of FDiag, please contact me by email to discuss a possible course of collaboration.
 
 Edward Chuah (email: edwardchuah@acm.org)
+
+    <!-- Start of StatCounter Code for Default Guide -->
+    <script type="text/javascript">
+    var sc_project=8216663; 
+    var sc_invisible=1; 
+    var sc_security="a871624d"; 
+    var sc_https=1; 
+    var scJsHost = (("https:" == document.location.protocol) ?
+    "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" +
+    scJsHost +
+    "statcounter.com/counter/counter.js'></"+"script>");</script>
+    <noscript><div class="statcounter"><a title="web stats"
+    href="http://statcounter.com/" target="_blank"><img
+    class="statcounter"
+    src="https://c.statcounter.com/8216663/0/a871624d/1/"
+    alt="web stats"></a></div></noscript>
+    <!-- End of StatCounter Code for Default Guide -->
