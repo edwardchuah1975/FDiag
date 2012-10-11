@@ -17,6 +17,5 @@ FDiag is a living project for which there are several plans to extend FDiag sign
 are interested in research in log-analysis, development and use of FDiag, and/or collaboration, please send anyone of us 
 below an email. We would like to hear from you.
 
-Edward Chuah (email: edwardchuah@acm.org)
-James C. Browne (email: browne@cs.utexas.edu)
-Arshad Jhumka (email: H.A.Jhumka@warwick.ac.uk)
+Edward Chuah (email: edwardchuah@acm.org), James C. Browne (email: browne@cs.utexas.edu), 
+Arshad Jhumka (email: H.A.Jhumka@warwick.ac.uk).
