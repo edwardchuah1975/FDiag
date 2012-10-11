@@ -13,9 +13,9 @@ Performance Computing (IHPC), the University of Texas at Austin, the Texas Advan
 the A*Star Computational Resource Centre (ACRC).  The source of the earlier version of FDiag can be obtained from 
 this webpage: http://software.ihpc.a-star.edu.sg/projects/FDiag/FDiag.php.
 
-FDiag is a living project for which there are several plans to extend FDiag significantly in the coming months.  
-If you are interested in research in log-analysis and/or development and use of FDiag and/or collaboration, please 
-send anyone of us below an email. We would like to hear from you.
+FDiag is a living project for which there are several plans to extend FDiag significantly in the coming months.  If you 
+are interested in research in log-analysis, development and use of FDiag, and/or collaboration, please send anyone of us 
+below an email. We would like to hear from you.
 
 Edward Chuah (email: edwardchuah@acm.org)
 James C. Browne (email: browne@cs.utexas.edu)
